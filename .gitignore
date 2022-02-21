@@ -1,0 +1,8 @@
+datasets/
+checkpoint/
+output/
+logs/
+model/
+*.pyc
+.ipynb_checkpoints
+.vscode
